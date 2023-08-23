@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1692832722,,"wq"
+|2,0,1692833506,,"wq"
 :WQ
 |2,0,1692829393,,"WQ"
 
@@ -27,20 +27,20 @@
 # Registers:
 
 # File marks:
-'0  1  19  ~/0x01-git/up_to_date
-|4,48,1,19,1692832722,"~/0x01-git/up_to_date"
-'1  1  41  /0x01-git/bash/alx
-|4,49,1,41,1692831958,"/0x01-git/bash/alx"
-'2  1  4  ~/0x02_emacs/opening
-|4,50,1,4,1692830400,"~/0x02_emacs/opening"
-'3  1  6  ~/0x02_emacs/opening
-|4,51,1,6,1692830130,"~/0x02_emacs/opening"
+'0  1  0  ~/up_to_date
+|4,48,1,0,1692833506,"~/up_to_date"
+'1  1  19  ~/0x01-git/up_to_date
+|4,49,1,19,1692832722,"~/0x01-git/up_to_date"
+'2  1  41  /0x01-git/bash/alx
+|4,50,1,41,1692831958,"/0x01-git/bash/alx"
+'3  1  4  ~/0x02_emacs/opening
+|4,51,1,4,1692830400,"~/0x02_emacs/opening"
 '4  1  6  ~/0x02_emacs/opening
-|4,52,1,6,1692830055,"~/0x02_emacs/opening"
+|4,52,1,6,1692830130,"~/0x02_emacs/opening"
 '5  1  6  ~/0x02_emacs/opening
 |4,53,1,6,1692830055,"~/0x02_emacs/opening"
 '6  1  6  ~/0x02_emacs/opening
-|4,54,1,6,1692829764,"~/0x02_emacs/opening"
+|4,54,1,6,1692830055,"~/0x02_emacs/opening"
 '7  1  6  ~/0x02_emacs/opening
 |4,55,1,6,1692829764,"~/0x02_emacs/opening"
 '8  1  6  ~/0x02_emacs/opening
@@ -49,12 +49,28 @@
 |4,57,1,6,1692829764,"~/0x02_emacs/opening"
 
 # Jumplist (newest first):
+-'  1  0  ~/up_to_date
+|4,39,1,0,1692833506,"~/up_to_date"
+-'  1  19  ~/0x01-git/up_to_date
+|4,39,1,19,1692832722,"~/0x01-git/up_to_date"
 -'  1  19  ~/0x01-git/up_to_date
 |4,39,1,19,1692832722,"~/0x01-git/up_to_date"
 -'  1  41  /0x01-git/bash/alx
 |4,39,1,41,1692831958,"/0x01-git/bash/alx"
 -'  1  41  /0x01-git/bash/alx
 |4,39,1,41,1692831958,"/0x01-git/bash/alx"
+-'  1  41  /0x01-git/bash/alx
+|4,39,1,41,1692831958,"/0x01-git/bash/alx"
+-'  1  41  /0x01-git/bash/alx
+|4,39,1,41,1692831958,"/0x01-git/bash/alx"
+-'  1  4  ~/0x02_emacs/opening
+|4,39,1,4,1692830400,"~/0x02_emacs/opening"
+-'  1  4  ~/0x02_emacs/opening
+|4,39,1,4,1692830400,"~/0x02_emacs/opening"
+-'  1  4  ~/0x02_emacs/opening
+|4,39,1,4,1692830400,"~/0x02_emacs/opening"
+-'  1  4  ~/0x02_emacs/opening
+|4,39,1,4,1692830400,"~/0x02_emacs/opening"
 -'  1  4  ~/0x02_emacs/opening
 |4,39,1,4,1692830400,"~/0x02_emacs/opening"
 -'  1  4  ~/0x02_emacs/opening
@@ -72,6 +88,22 @@
 -'  1  6  ~/0x02_emacs/opening
 |4,39,1,6,1692830130,"~/0x02_emacs/opening"
 -'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1692830130,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1692830130,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1692830130,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1692830130,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1692830055,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1692830055,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1692830055,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1692830055,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
 |4,39,1,6,1692830055,"~/0x02_emacs/opening"
 -'  1  6  ~/0x02_emacs/opening
 |4,39,1,6,1692830055,"~/0x02_emacs/opening"
@@ -88,6 +120,18 @@
 -'  1  6  ~/0x02_emacs/opening
 |4,39,1,6,1692829764,"~/0x02_emacs/opening"
 -'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1692829764,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1692829764,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1692829764,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1692829764,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1692829648,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1692829648,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
 |4,39,1,6,1692829648,"~/0x02_emacs/opening"
 -'  1  6  ~/0x02_emacs/opening
 |4,39,1,6,1692829648,"~/0x02_emacs/opening"
@@ -95,6 +139,10 @@
 |4,39,1,6,1692829648,"~/0x02_emacs/opening"
 -'  1  6  ~/0x02_emacs/opening
 |4,39,1,6,1692829648,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1692829648,"~/0x02_emacs/opening"
+-'  1  6  ~/0x02_emacs/opening
+|4,39,1,6,1692829648,"~/0x02_emacs/opening"
 -'  1  3  ~/0x02_emacs/opening
 |4,39,1,3,1692829398,"~/0x02_emacs/opening"
 -'  1  3  ~/0x02_emacs/opening
@@ -103,62 +151,14 @@
 |4,39,1,3,1692829398,"~/0x02_emacs/opening"
 -'  1  3  ~/0x02_emacs/opening
 |4,39,1,3,1692829398,"~/0x02_emacs/opening"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
+-'  1  3  ~/0x02_emacs/opening
+|4,39,1,3,1692829398,"~/0x02_emacs/opening"
+-'  1  3  ~/0x02_emacs/opening
+|4,39,1,3,1692829398,"~/0x02_emacs/opening"
+-'  1  3  ~/0x02_emacs/opening
+|4,39,1,3,1692829398,"~/0x02_emacs/opening"
+-'  1  3  ~/0x02_emacs/opening
+|4,39,1,3,1692829398,"~/0x02_emacs/opening"
 -'  1  0  /.git/MERGE_MSG
 |4,39,1,0,1692825291,"/.git/MERGE_MSG"
 -'  1  0  /.git/MERGE_MSG
@@ -251,6 +251,14 @@
 |4,39,1,0,1692825291,"/.git/MERGE_MSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/up_to_date
+	*	1692833504	0
+	"	1	0
+	^	1	0
+	.	2	0
+	+	1	0
+	+	2	0
 
 > ~/0x01-git/up_to_date
 	*	1692832719	0

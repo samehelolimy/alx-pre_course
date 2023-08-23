@@ -1,1 +1,1 @@
-my first readme
+my first commit , it is amazing

@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1693310534,,"wq"
+|2,0,1693344028,,"wq"
+:q
+|2,0,1693313575,,"q"
 :WQ
 |2,0,1692829393,,"WQ"
 
@@ -25,239 +27,277 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+"q	CHAR	0
+	:q€ýa:q
+|3,0,26,0,1,0,1693313578,":q€ýa:q"
 
 # File marks:
-'0  1  14  /alx-zero_day/README.md
-|4,48,1,14,1693310534,"/alx-zero_day/README.md"
-'1  1  0  ~/0x02_vi/undoing
-|4,49,1,0,1693309338,"~/0x02_vi/undoing"
-'2  1  0  ~/0x02_vi/pasting
-|4,50,1,0,1693309255,"~/0x02_vi/pasting"
-'3  1  1  ~/0x02_vi/exiting
-|4,51,1,1,1693309181,"~/0x02_vi/exiting"
-'4  1  0  ~/0x02_vi/beginning_of_the_line
-|4,52,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
-'5  1  0  ~/0x02_vi/end_of_the_line
-|4,53,1,0,1693308987,"~/0x02_vi/end_of_the_line"
-'6  1  0  ~/0x02_vi/cutting
-|4,54,1,0,1693308865,"~/0x02_vi/cutting"
-'7  1  0  ~/0x02_vi/cutting
-|4,55,1,0,1693308828,"~/0x02_vi/cutting"
-'8  1  0  ~/0x02_vi/inserting
-|4,56,1,0,1693308550,"~/0x02_vi/inserting"
-'9  1  19  /0x01-git/up_to_date
-|4,57,1,19,1692916189,"/0x01-git/up_to_date"
+'0  2  12  /bash/school
+|4,48,2,12,1693344028,"/bash/school"
+'1  2  9  /bash/alx
+|4,49,2,9,1693343970,"/bash/alx"
+'2  2  12  ~/bash/school
+|4,50,2,12,1693342532,"~/bash/school"
+'3  2  9  ~/bash/alx
+|4,51,2,9,1693342467,"~/bash/alx"
+'4  1  14  /alx-zero_day/README.md
+|4,52,1,14,1693340563,"/alx-zero_day/README.md"
+'5  1  14  /alx-zero_day/README.md
+|4,53,1,14,1693324514,"/alx-zero_day/README.md"
+'6  1  14  /alx-zero_day/README.md
+|4,54,1,14,1693315661,"/alx-zero_day/README.md"
+'7  1  14  /alx-zero_day/README.md
+|4,55,1,14,1693315661,"/alx-zero_day/README.md"
+'8  21  0  /.git/COMMIT_EDITMSG
+|4,56,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+'9  1  14  /alx-zero_day/README.md
+|4,57,1,14,1693310534,"/alx-zero_day/README.md"
 
 # Jumplist (newest first):
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  2  9  /bash/alx
+|4,39,2,9,1693343970,"/bash/alx"
+-'  2  9  /bash/alx
+|4,39,2,9,1693343970,"/bash/alx"
+-'  1  0  /bash/alx
+|4,39,1,0,1693343929,"/bash/alx"
+-'  1  0  /bash/alx
+|4,39,1,0,1693343929,"/bash/alx"
+-'  2  12  ~/bash/school
+|4,39,2,12,1693342532,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1693342532,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1693342532,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1693342532,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1693342492,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1693342492,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1693342492,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1693342492,"~/bash/school"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1693342467,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1693342467,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1693342467,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1693342467,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1693342467,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1693342467,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1693342467,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1693342467,"~/bash/alx"
+-'  1  0  ~/bash/alx
+|4,39,1,0,1693342429,"~/bash/alx"
+-'  1  0  ~/bash/alx
+|4,39,1,0,1693342429,"~/bash/alx"
+-'  1  0  ~/bash/alx
+|4,39,1,0,1693342429,"~/bash/alx"
+-'  1  0  ~/bash/alx
+|4,39,1,0,1693342429,"~/bash/alx"
+-'  1  0  ~/bash/alx
+|4,39,1,0,1693342429,"~/bash/alx"
+-'  1  0  ~/bash/alx
+|4,39,1,0,1693342429,"~/bash/alx"
+-'  1  0  ~/bash/alx
+|4,39,1,0,1693342429,"~/bash/alx"
+-'  1  0  ~/bash/alx
+|4,39,1,0,1693342429,"~/bash/alx"
 -'  1  14  /alx-zero_day/README.md
-|4,39,1,14,1693310534,"/alx-zero_day/README.md"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1693309338,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1693309338,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1693309255,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1693309255,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1693309255,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1693309255,"~/0x02_vi/pasting"
--'  1  1  ~/0x02_vi/exiting
-|4,39,1,1,1693309181,"~/0x02_vi/exiting"
--'  1  1  ~/0x02_vi/exiting
-|4,39,1,1,1693309181,"~/0x02_vi/exiting"
--'  1  1  ~/0x02_vi/exiting
-|4,39,1,1,1693309181,"~/0x02_vi/exiting"
--'  1  1  ~/0x02_vi/exiting
-|4,39,1,1,1693309181,"~/0x02_vi/exiting"
--'  1  1  ~/0x02_vi/exiting
-|4,39,1,1,1693309181,"~/0x02_vi/exiting"
--'  1  1  ~/0x02_vi/exiting
-|4,39,1,1,1693309181,"~/0x02_vi/exiting"
--'  1  1  ~/0x02_vi/exiting
-|4,39,1,1,1693309181,"~/0x02_vi/exiting"
--'  1  1  ~/0x02_vi/exiting
-|4,39,1,1,1693309181,"~/0x02_vi/exiting"
--'  1  0  ~/0x02_vi/beginning_of_the_line
-|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
--'  1  0  ~/0x02_vi/beginning_of_the_line
-|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
--'  1  0  ~/0x02_vi/beginning_of_the_line
-|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
--'  1  0  ~/0x02_vi/beginning_of_the_line
-|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
--'  1  0  ~/0x02_vi/beginning_of_the_line
-|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
--'  1  0  ~/0x02_vi/beginning_of_the_line
-|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
--'  1  0  ~/0x02_vi/beginning_of_the_line
-|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
--'  1  0  ~/0x02_vi/beginning_of_the_line
-|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
--'  1  0  ~/0x02_vi/beginning_of_the_line
-|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
--'  1  0  ~/0x02_vi/beginning_of_the_line
-|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
--'  1  0  ~/0x02_vi/beginning_of_the_line
-|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
--'  1  0  ~/0x02_vi/beginning_of_the_line
-|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
--'  1  0  ~/0x02_vi/beginning_of_the_line
-|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
--'  1  0  ~/0x02_vi/beginning_of_the_line
-|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
--'  1  0  ~/0x02_vi/beginning_of_the_line
-|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
--'  1  0  ~/0x02_vi/beginning_of_the_line
-|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/end_of_the_line
-|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
--'  1  0  ~/0x02_vi/cutting
-|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+|4,39,1,14,1693340563,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693340563,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693340563,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693340563,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693340563,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693340563,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693340563,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693340563,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693340563,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693340563,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693340563,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693340563,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693340563,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693340563,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693340563,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693340563,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693324514,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693324514,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693324514,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693324514,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693324514,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693324514,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693324514,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693324514,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693324514,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693324514,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693324514,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693324514,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693324514,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693324514,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693324514,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693324514,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693315661,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693315661,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693315661,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693315661,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693315661,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693315661,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693315661,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693315661,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693315661,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693315661,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693315661,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693315661,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693315661,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693315661,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693315661,"/alx-zero_day/README.md"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693315661,"/alx-zero_day/README.md"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
+-'  21  0  /.git/COMMIT_EDITMSG
+|4,39,21,0,1693313591,"/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
 
+> /bash/school
+	*	1693344025	0
+	"	2	12
+	^	2	13
+	.	2	12
+	+	2	12
+
+> /bash/alx
+	*	1693343968	0
+	"	2	9
+	^	2	10
+	.	3	0
+	+	3	0
+
+> ~/bash/school
+	*	1693342530	0
+	"	2	12
+	^	2	13
+	.	2	12
+	+	2	12
+
+> ~/bash/alx
+	*	1693342458	0
+	"	2	9
+	^	2	10
+	.	2	9
+	+	2	9
+
 > /alx-zero_day/README.md
-	*	1693310529	0
+	*	1693340560	0
 	"	1	14
 	^	1	15
 	.	1	14
 	+	1	14
+
+> /.git/COMMIT_EDITMSG
+	*	1693313587	0
+	"	21	0
+	^	1	0
+	.	34	0
+	+	34	0
 
 > ~/0x02_vi/undoing
 	*	1693309336	0

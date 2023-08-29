@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1692833506,,"wq"
+|2,0,1693310534,,"wq"
 :WQ
 |2,0,1692829393,,"WQ"
 
@@ -27,230 +27,309 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/up_to_date
-|4,48,1,0,1692833506,"~/up_to_date"
-'1  1  19  ~/0x01-git/up_to_date
-|4,49,1,19,1692832722,"~/0x01-git/up_to_date"
-'2  1  41  /0x01-git/bash/alx
-|4,50,1,41,1692831958,"/0x01-git/bash/alx"
-'3  1  4  ~/0x02_emacs/opening
-|4,51,1,4,1692830400,"~/0x02_emacs/opening"
-'4  1  6  ~/0x02_emacs/opening
-|4,52,1,6,1692830130,"~/0x02_emacs/opening"
-'5  1  6  ~/0x02_emacs/opening
-|4,53,1,6,1692830055,"~/0x02_emacs/opening"
-'6  1  6  ~/0x02_emacs/opening
-|4,54,1,6,1692830055,"~/0x02_emacs/opening"
-'7  1  6  ~/0x02_emacs/opening
-|4,55,1,6,1692829764,"~/0x02_emacs/opening"
-'8  1  6  ~/0x02_emacs/opening
-|4,56,1,6,1692829764,"~/0x02_emacs/opening"
-'9  1  6  ~/0x02_emacs/opening
-|4,57,1,6,1692829764,"~/0x02_emacs/opening"
+'0  1  14  /alx-zero_day/README.md
+|4,48,1,14,1693310534,"/alx-zero_day/README.md"
+'1  1  0  ~/0x02_vi/undoing
+|4,49,1,0,1693309338,"~/0x02_vi/undoing"
+'2  1  0  ~/0x02_vi/pasting
+|4,50,1,0,1693309255,"~/0x02_vi/pasting"
+'3  1  1  ~/0x02_vi/exiting
+|4,51,1,1,1693309181,"~/0x02_vi/exiting"
+'4  1  0  ~/0x02_vi/beginning_of_the_line
+|4,52,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
+'5  1  0  ~/0x02_vi/end_of_the_line
+|4,53,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+'6  1  0  ~/0x02_vi/cutting
+|4,54,1,0,1693308865,"~/0x02_vi/cutting"
+'7  1  0  ~/0x02_vi/cutting
+|4,55,1,0,1693308828,"~/0x02_vi/cutting"
+'8  1  0  ~/0x02_vi/inserting
+|4,56,1,0,1693308550,"~/0x02_vi/inserting"
+'9  1  19  /0x01-git/up_to_date
+|4,57,1,19,1692916189,"/0x01-git/up_to_date"
 
 # Jumplist (newest first):
--'  1  0  ~/up_to_date
-|4,39,1,0,1692833506,"~/up_to_date"
--'  1  19  ~/0x01-git/up_to_date
-|4,39,1,19,1692832722,"~/0x01-git/up_to_date"
--'  1  19  ~/0x01-git/up_to_date
-|4,39,1,19,1692832722,"~/0x01-git/up_to_date"
--'  1  41  /0x01-git/bash/alx
-|4,39,1,41,1692831958,"/0x01-git/bash/alx"
--'  1  41  /0x01-git/bash/alx
-|4,39,1,41,1692831958,"/0x01-git/bash/alx"
--'  1  41  /0x01-git/bash/alx
-|4,39,1,41,1692831958,"/0x01-git/bash/alx"
--'  1  41  /0x01-git/bash/alx
-|4,39,1,41,1692831958,"/0x01-git/bash/alx"
--'  1  4  ~/0x02_emacs/opening
-|4,39,1,4,1692830400,"~/0x02_emacs/opening"
--'  1  4  ~/0x02_emacs/opening
-|4,39,1,4,1692830400,"~/0x02_emacs/opening"
--'  1  4  ~/0x02_emacs/opening
-|4,39,1,4,1692830400,"~/0x02_emacs/opening"
--'  1  4  ~/0x02_emacs/opening
-|4,39,1,4,1692830400,"~/0x02_emacs/opening"
--'  1  4  ~/0x02_emacs/opening
-|4,39,1,4,1692830400,"~/0x02_emacs/opening"
--'  1  4  ~/0x02_emacs/opening
-|4,39,1,4,1692830400,"~/0x02_emacs/opening"
--'  1  4  ~/0x02_emacs/opening
-|4,39,1,4,1692830400,"~/0x02_emacs/opening"
--'  1  4  ~/0x02_emacs/opening
-|4,39,1,4,1692830400,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692830130,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692830130,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692830130,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692830130,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692830130,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692830130,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692830130,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692830130,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692830055,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692830055,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692830055,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692830055,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692830055,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692830055,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692830055,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692830055,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692829764,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692829764,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692829764,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692829764,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692829764,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692829764,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692829764,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692829764,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692829648,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692829648,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692829648,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692829648,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692829648,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692829648,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692829648,"~/0x02_emacs/opening"
--'  1  6  ~/0x02_emacs/opening
-|4,39,1,6,1692829648,"~/0x02_emacs/opening"
--'  1  3  ~/0x02_emacs/opening
-|4,39,1,3,1692829398,"~/0x02_emacs/opening"
--'  1  3  ~/0x02_emacs/opening
-|4,39,1,3,1692829398,"~/0x02_emacs/opening"
--'  1  3  ~/0x02_emacs/opening
-|4,39,1,3,1692829398,"~/0x02_emacs/opening"
--'  1  3  ~/0x02_emacs/opening
-|4,39,1,3,1692829398,"~/0x02_emacs/opening"
--'  1  3  ~/0x02_emacs/opening
-|4,39,1,3,1692829398,"~/0x02_emacs/opening"
--'  1  3  ~/0x02_emacs/opening
-|4,39,1,3,1692829398,"~/0x02_emacs/opening"
--'  1  3  ~/0x02_emacs/opening
-|4,39,1,3,1692829398,"~/0x02_emacs/opening"
--'  1  3  ~/0x02_emacs/opening
-|4,39,1,3,1692829398,"~/0x02_emacs/opening"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
--'  1  0  /.git/MERGE_MSG
-|4,39,1,0,1692825291,"/.git/MERGE_MSG"
+-'  1  14  /alx-zero_day/README.md
+|4,39,1,14,1693310534,"/alx-zero_day/README.md"
+-'  1  0  ~/0x02_vi/undoing
+|4,39,1,0,1693309338,"~/0x02_vi/undoing"
+-'  1  0  ~/0x02_vi/undoing
+|4,39,1,0,1693309338,"~/0x02_vi/undoing"
+-'  1  0  ~/0x02_vi/pasting
+|4,39,1,0,1693309255,"~/0x02_vi/pasting"
+-'  1  0  ~/0x02_vi/pasting
+|4,39,1,0,1693309255,"~/0x02_vi/pasting"
+-'  1  0  ~/0x02_vi/pasting
+|4,39,1,0,1693309255,"~/0x02_vi/pasting"
+-'  1  0  ~/0x02_vi/pasting
+|4,39,1,0,1693309255,"~/0x02_vi/pasting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1693309181,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1693309181,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1693309181,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1693309181,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1693309181,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1693309181,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1693309181,"~/0x02_vi/exiting"
+-'  1  1  ~/0x02_vi/exiting
+|4,39,1,1,1693309181,"~/0x02_vi/exiting"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/beginning_of_the_line
+|4,39,1,0,1693309039,"~/0x02_vi/beginning_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1693308987,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
+-'  1  0  ~/0x02_vi/cutting
+|4,39,1,0,1693308865,"~/0x02_vi/cutting"
 
 # History of marks within files (newest to oldest):
+
+> /alx-zero_day/README.md
+	*	1693310529	0
+	"	1	14
+	^	1	15
+	.	1	14
+	+	1	14
+
+> ~/0x02_vi/undoing
+	*	1693309336	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/0x02_vi/pasting
+	*	1693309252	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/0x02_vi/exiting
+	*	1693309179	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/0x02_vi/beginning_of_the_line
+	*	1693309037	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/0x02_vi/end_of_the_line
+	*	1693308985	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/0x02_vi/cutting
+	*	1693308862	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/0x02_vi/inserting
+	*	1693308547	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> /0x01-git/up_to_date
+	*	1692916185	0
+	"	1	19
+	^	1	20
+	.	1	19
+	+	1	19
+	+	1	8
+	+	1	19
+
+> /0x01-git/bash/alx
+	*	1692915309	0
+	"	1	41
+	^	1	42
+	.	1	41
+	+	1	30
+	+	1	23
+	+	1	30
+	+	1	41
+	+	1	23
+	+	1	41
+	+	1	42
+	+	1	41
 
 > ~/up_to_date
 	*	1692833504	0
@@ -268,20 +347,6 @@
 	+	1	8
 	+	1	9
 	+	1	19
-
-> /0x01-git/bash/alx
-	*	1692831955	0
-	"	1	41
-	^	1	42
-	.	1	41
-	+	1	30
-	+	1	23
-	+	1	30
-	+	1	41
-	+	1	23
-	+	1	41
-	+	1	42
-	+	1	41
 
 > ~/0x02_emacs/opening
 	*	1692830398	0

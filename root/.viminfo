@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1693344818,,"wq"
+|2,0,1693345351,,"wq"
 :q
 |2,0,1693313575,,"q"
 :WQ
@@ -33,35 +33,59 @@
 
 # File marks:
 '0  2  12  /0x03-git/bash/school
-|4,48,2,12,1693344818,"/0x03-git/bash/school"
+|4,48,2,12,1693345351,"/0x03-git/bash/school"
 '1  2  9  /0x03-git/bash/alx
-|4,49,2,9,1693344775,"/0x03-git/bash/alx"
-'2  1  0  /0x03-git/alx
-|4,50,1,0,1693344713,"/0x03-git/alx"
-'3  2  12  /bash/school
-|4,51,2,12,1693344028,"/bash/school"
-'4  2  9  /bash/alx
-|4,52,2,9,1693343970,"/bash/alx"
-'5  2  12  ~/bash/school
-|4,53,2,12,1693342532,"~/bash/school"
-'6  2  9  ~/bash/alx
-|4,54,2,9,1693342467,"~/bash/alx"
-'7  1  14  /alx-zero_day/README.md
-|4,55,1,14,1693340563,"/alx-zero_day/README.md"
-'8  1  14  /alx-zero_day/README.md
-|4,56,1,14,1693324514,"/alx-zero_day/README.md"
+|4,49,2,9,1693345336,"/0x03-git/bash/alx"
+'2  2  12  /0x03-git/bash/school
+|4,50,2,12,1693344818,"/0x03-git/bash/school"
+'3  2  9  /0x03-git/bash/alx
+|4,51,2,9,1693344775,"/0x03-git/bash/alx"
+'4  1  0  /0x03-git/alx
+|4,52,1,0,1693344713,"/0x03-git/alx"
+'5  2  12  /bash/school
+|4,53,2,12,1693344028,"/bash/school"
+'6  2  9  /bash/alx
+|4,54,2,9,1693343970,"/bash/alx"
+'7  2  12  ~/bash/school
+|4,55,2,12,1693342532,"~/bash/school"
+'8  2  9  ~/bash/alx
+|4,56,2,9,1693342467,"~/bash/alx"
 '9  1  14  /alx-zero_day/README.md
-|4,57,1,14,1693315661,"/alx-zero_day/README.md"
+|4,57,1,14,1693340563,"/alx-zero_day/README.md"
 
 # Jumplist (newest first):
 -'  2  12  /0x03-git/bash/school
+|4,39,2,12,1693345351,"/0x03-git/bash/school"
+-'  2  9  /0x03-git/bash/alx
+|4,39,2,9,1693345336,"/0x03-git/bash/alx"
+-'  2  9  /0x03-git/bash/alx
+|4,39,2,9,1693345336,"/0x03-git/bash/alx"
+-'  2  12  /0x03-git/bash/school
 |4,39,2,12,1693344818,"/0x03-git/bash/school"
+-'  2  12  /0x03-git/bash/school
+|4,39,2,12,1693344818,"/0x03-git/bash/school"
+-'  1  0  /0x03-git/bash/school
+|4,39,1,0,1693344790,"/0x03-git/bash/school"
+-'  1  0  /0x03-git/bash/school
+|4,39,1,0,1693344790,"/0x03-git/bash/school"
 -'  1  0  /0x03-git/bash/school
 |4,39,1,0,1693344790,"/0x03-git/bash/school"
 -'  2  9  /0x03-git/bash/alx
 |4,39,2,9,1693344775,"/0x03-git/bash/alx"
 -'  2  9  /0x03-git/bash/alx
 |4,39,2,9,1693344775,"/0x03-git/bash/alx"
+-'  2  9  /0x03-git/bash/alx
+|4,39,2,9,1693344775,"/0x03-git/bash/alx"
+-'  2  9  /0x03-git/bash/alx
+|4,39,2,9,1693344775,"/0x03-git/bash/alx"
+-'  1  0  /0x03-git/bash/alx
+|4,39,1,0,1693344720,"/0x03-git/bash/alx"
+-'  1  0  /0x03-git/bash/alx
+|4,39,1,0,1693344720,"/0x03-git/bash/alx"
+-'  1  0  /0x03-git/bash/alx
+|4,39,1,0,1693344720,"/0x03-git/bash/alx"
+-'  1  0  /0x03-git/bash/alx
+|4,39,1,0,1693344720,"/0x03-git/bash/alx"
 -'  1  0  /0x03-git/bash/alx
 |4,39,1,0,1693344720,"/0x03-git/bash/alx"
 -'  1  0  /0x03-git/bash/alx
@@ -74,6 +98,78 @@
 |4,39,1,0,1693344713,"/0x03-git/alx"
 -'  1  0  /0x03-git/alx
 |4,39,1,0,1693344713,"/0x03-git/alx"
+-'  1  0  /0x03-git/alx
+|4,39,1,0,1693344713,"/0x03-git/alx"
+-'  1  0  /0x03-git/alx
+|4,39,1,0,1693344713,"/0x03-git/alx"
+-'  1  0  /0x03-git/alx
+|4,39,1,0,1693344713,"/0x03-git/alx"
+-'  1  0  /0x03-git/alx
+|4,39,1,0,1693344713,"/0x03-git/alx"
+-'  1  0  /0x03-git/alx
+|4,39,1,0,1693344713,"/0x03-git/alx"
+-'  1  0  /0x03-git/alx
+|4,39,1,0,1693344713,"/0x03-git/alx"
+-'  1  0  /0x03-git/alx
+|4,39,1,0,1693344713,"/0x03-git/alx"
+-'  1  0  /0x03-git/alx
+|4,39,1,0,1693344713,"/0x03-git/alx"
+-'  1  0  /0x03-git/alx
+|4,39,1,0,1693344713,"/0x03-git/alx"
+-'  1  0  /0x03-git/alx
+|4,39,1,0,1693344713,"/0x03-git/alx"
+-'  1  0  /0x03-git/alx
+|4,39,1,0,1693344713,"/0x03-git/alx"
+-'  1  0  /0x03-git/alx
+|4,39,1,0,1693344713,"/0x03-git/alx"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
+-'  2  12  /bash/school
+|4,39,2,12,1693344028,"/bash/school"
 -'  2  12  /bash/school
 |4,39,2,12,1693344028,"/bash/school"
 -'  2  12  /bash/school
@@ -106,166 +202,70 @@
 |4,39,1,0,1693343989,"/bash/school"
 -'  1  0  /bash/school
 |4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
+-'  1  0  /bash/school
+|4,39,1,0,1693343989,"/bash/school"
 -'  2  9  /bash/alx
 |4,39,2,9,1693343970,"/bash/alx"
 -'  2  9  /bash/alx
 |4,39,2,9,1693343970,"/bash/alx"
--'  2  9  /bash/alx
-|4,39,2,9,1693343970,"/bash/alx"
--'  2  9  /bash/alx
-|4,39,2,9,1693343970,"/bash/alx"
--'  2  9  /bash/alx
-|4,39,2,9,1693343970,"/bash/alx"
--'  2  9  /bash/alx
-|4,39,2,9,1693343970,"/bash/alx"
--'  2  9  /bash/alx
-|4,39,2,9,1693343970,"/bash/alx"
--'  2  9  /bash/alx
-|4,39,2,9,1693343970,"/bash/alx"
--'  2  9  /bash/alx
-|4,39,2,9,1693343970,"/bash/alx"
--'  2  9  /bash/alx
-|4,39,2,9,1693343970,"/bash/alx"
--'  2  9  /bash/alx
-|4,39,2,9,1693343970,"/bash/alx"
--'  2  9  /bash/alx
-|4,39,2,9,1693343970,"/bash/alx"
--'  2  9  /bash/alx
-|4,39,2,9,1693343970,"/bash/alx"
--'  2  9  /bash/alx
-|4,39,2,9,1693343970,"/bash/alx"
--'  2  9  /bash/alx
-|4,39,2,9,1693343970,"/bash/alx"
--'  2  9  /bash/alx
-|4,39,2,9,1693343970,"/bash/alx"
--'  1  0  /bash/alx
-|4,39,1,0,1693343929,"/bash/alx"
--'  1  0  /bash/alx
-|4,39,1,0,1693343929,"/bash/alx"
--'  1  0  /bash/alx
-|4,39,1,0,1693343929,"/bash/alx"
--'  1  0  /bash/alx
-|4,39,1,0,1693343929,"/bash/alx"
--'  1  0  /bash/alx
-|4,39,1,0,1693343929,"/bash/alx"
--'  1  0  /bash/alx
-|4,39,1,0,1693343929,"/bash/alx"
--'  1  0  /bash/alx
-|4,39,1,0,1693343929,"/bash/alx"
--'  1  0  /bash/alx
-|4,39,1,0,1693343929,"/bash/alx"
--'  1  0  /bash/alx
-|4,39,1,0,1693343929,"/bash/alx"
--'  1  0  /bash/alx
-|4,39,1,0,1693343929,"/bash/alx"
--'  1  0  /bash/alx
-|4,39,1,0,1693343929,"/bash/alx"
--'  1  0  /bash/alx
-|4,39,1,0,1693343929,"/bash/alx"
--'  1  0  /bash/alx
-|4,39,1,0,1693343929,"/bash/alx"
--'  1  0  /bash/alx
-|4,39,1,0,1693343929,"/bash/alx"
--'  1  0  /bash/alx
-|4,39,1,0,1693343929,"/bash/alx"
--'  1  0  /bash/alx
-|4,39,1,0,1693343929,"/bash/alx"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  2  12  ~/bash/school
-|4,39,2,12,1693342532,"~/bash/school"
--'  1  0  ~/bash/school
-|4,39,1,0,1693342492,"~/bash/school"
--'  1  0  ~/bash/school
-|4,39,1,0,1693342492,"~/bash/school"
--'  1  0  ~/bash/school
-|4,39,1,0,1693342492,"~/bash/school"
--'  1  0  ~/bash/school
-|4,39,1,0,1693342492,"~/bash/school"
--'  1  0  ~/bash/school
-|4,39,1,0,1693342492,"~/bash/school"
--'  1  0  ~/bash/school
-|4,39,1,0,1693342492,"~/bash/school"
--'  1  0  ~/bash/school
-|4,39,1,0,1693342492,"~/bash/school"
--'  1  0  ~/bash/school
-|4,39,1,0,1693342492,"~/bash/school"
--'  1  0  ~/bash/school
-|4,39,1,0,1693342492,"~/bash/school"
--'  1  0  ~/bash/school
-|4,39,1,0,1693342492,"~/bash/school"
 
 # History of marks within files (newest to oldest):
 
 > /0x03-git/bash/school
-	*	1693344816	0
+	*	1693345348	0
 	"	2	12
 	^	2	13
 	.	2	12
 	+	2	12
 
 > /0x03-git/bash/alx
-	*	1693344773	0
+	*	1693345333	0
 	"	2	9
 	^	2	10
 	.	3	0

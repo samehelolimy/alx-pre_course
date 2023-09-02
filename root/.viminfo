@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1693618032,,"wq"
+|2,0,1693618729,,"wq"
 :q
 |2,0,1693436506,,"q"
 :WQ
@@ -40,28 +40,32 @@
 |3,0,26,0,1,0,1693313578,":q€ýa:q"
 
 # File marks:
-'0  2  12  /alx-zero_day/0x03-git/bash/school
-|4,48,2,12,1693618032,"/alx-zero_day/0x03-git/bash/school"
-'1  2  9  /alx-zero_day/0x03-git/bash/alx
-|4,49,2,9,1693618017,"/alx-zero_day/0x03-git/bash/alx"
+'0  2  9  /alx-zero_day/0x03-git/bash/alx
+|4,48,2,9,1693618729,"/alx-zero_day/0x03-git/bash/alx"
+'1  2  12  /alx-zero_day/0x03-git/bash/school
+|4,49,2,12,1693618032,"/alx-zero_day/0x03-git/bash/school"
 '2  2  9  /alx-zero_day/0x03-git/bash/alx
-|4,50,2,9,1693617755,"/alx-zero_day/0x03-git/bash/alx"
-'3  2  12  /alx-zero_day/0x03-git/bash/school
-|4,51,2,12,1693617290,"/alx-zero_day/0x03-git/bash/school"
+|4,50,2,9,1693618017,"/alx-zero_day/0x03-git/bash/alx"
+'3  2  9  /alx-zero_day/0x03-git/bash/alx
+|4,51,2,9,1693617755,"/alx-zero_day/0x03-git/bash/alx"
 '4  2  9  /alx-zero_day/0x03-git/bash/alx
-|4,52,2,9,1693617239,"/alx-zero_day/0x03-git/bash/alx"
-'5  2  9  /alx-zero_day/0x03-git/bash/alx
-|4,53,2,9,1693617239,"/alx-zero_day/0x03-git/bash/alx"
-'6  1  0  bash/alx
-|4,54,1,0,1693615523,"bash/alx"
-'7  1  0  bash/alx
-|4,55,1,0,1693615513,"bash/alx"
-'8  1  0  /alx-system_engineering-devops/0x01-shell_permissions/ss
-|4,56,1,0,1693614744,"/alx-system_engineering-devops/0x01-shell_permissions/ss"
-'9  2  13  /alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
-|4,57,2,13,1693614688,"/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions"
+|4,52,2,9,1693617755,"/alx-zero_day/0x03-git/bash/alx"
+'5  2  12  /alx-zero_day/0x03-git/bash/school
+|4,53,2,12,1693617290,"/alx-zero_day/0x03-git/bash/school"
+'6  2  9  /alx-zero_day/0x03-git/bash/alx
+|4,54,2,9,1693617239,"/alx-zero_day/0x03-git/bash/alx"
+'7  2  9  /alx-zero_day/0x03-git/bash/alx
+|4,55,2,9,1693617239,"/alx-zero_day/0x03-git/bash/alx"
+'8  2  9  /alx-zero_day/0x03-git/bash/alx
+|4,56,2,9,1693617239,"/alx-zero_day/0x03-git/bash/alx"
+'9  2  9  /alx-zero_day/0x03-git/bash/alx
+|4,57,2,9,1693617239,"/alx-zero_day/0x03-git/bash/alx"
 
 # Jumplist (newest first):
+-'  2  9  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,9,1693618729,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  12  /alx-zero_day/0x03-git/bash/school
+|4,39,2,12,1693618032,"/alx-zero_day/0x03-git/bash/school"
 -'  2  12  /alx-zero_day/0x03-git/bash/school
 |4,39,2,12,1693618032,"/alx-zero_day/0x03-git/bash/school"
 -'  2  9  /alx-zero_day/0x03-git/bash/alx
@@ -80,6 +84,24 @@
 |4,39,2,12,1693617290,"/alx-zero_day/0x03-git/bash/school"
 -'  2  12  /alx-zero_day/0x03-git/bash/school
 |4,39,2,12,1693617290,"/alx-zero_day/0x03-git/bash/school"
+-'  2  12  /alx-zero_day/0x03-git/bash/school
+|4,39,2,12,1693617290,"/alx-zero_day/0x03-git/bash/school"
+-'  2  12  /alx-zero_day/0x03-git/bash/school
+|4,39,2,12,1693617290,"/alx-zero_day/0x03-git/bash/school"
+-'  2  12  /alx-zero_day/0x03-git/bash/school
+|4,39,2,12,1693617290,"/alx-zero_day/0x03-git/bash/school"
+-'  2  12  /alx-zero_day/0x03-git/bash/school
+|4,39,2,12,1693617290,"/alx-zero_day/0x03-git/bash/school"
+-'  1  0  /alx-zero_day/0x03-git/bash/school
+|4,39,1,0,1693617255,"/alx-zero_day/0x03-git/bash/school"
+-'  1  0  /alx-zero_day/0x03-git/bash/school
+|4,39,1,0,1693617255,"/alx-zero_day/0x03-git/bash/school"
+-'  1  0  /alx-zero_day/0x03-git/bash/school
+|4,39,1,0,1693617255,"/alx-zero_day/0x03-git/bash/school"
+-'  1  0  /alx-zero_day/0x03-git/bash/school
+|4,39,1,0,1693617255,"/alx-zero_day/0x03-git/bash/school"
+-'  1  0  /alx-zero_day/0x03-git/bash/school
+|4,39,1,0,1693617255,"/alx-zero_day/0x03-git/bash/school"
 -'  1  0  /alx-zero_day/0x03-git/bash/school
 |4,39,1,0,1693617255,"/alx-zero_day/0x03-git/bash/school"
 -'  1  0  /alx-zero_day/0x03-git/bash/school
@@ -114,6 +136,8 @@
 |4,39,1,0,1693617214,"/alx-zero_day/0x03-git/bash/alx"
 -'  1  0  /alx-zero_day/0x03-git/bash/alx
 |4,39,1,0,1693617214,"/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  /alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1693617214,"/alx-zero_day/0x03-git/bash/alx"
 -'  1  0  bash/alx
 |4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
@@ -179,91 +203,74 @@
 -'  1  0  bash/alx
 |4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
+|4,39,1,0,1693615523,"bash/alx"
 -'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
--'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
--'  1  0  bash/alx
-|4,39,1,0,1693615513,"bash/alx"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/ss
-|4,39,1,0,1693614744,"/alx-system_engineering-devops/0x01-shell_permissions/ss"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/ss
-|4,39,1,0,1693614744,"/alx-system_engineering-devops/0x01-shell_permissions/ss"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/ss
-|4,39,1,0,1693614744,"/alx-system_engineering-devops/0x01-shell_permissions/ss"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/ss
-|4,39,1,0,1693614744,"/alx-system_engineering-devops/0x01-shell_permissions/ss"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/ss
-|4,39,1,0,1693614744,"/alx-system_engineering-devops/0x01-shell_permissions/ss"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/ss
-|4,39,1,0,1693614744,"/alx-system_engineering-devops/0x01-shell_permissions/ss"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/ss
-|4,39,1,0,1693614744,"/alx-system_engineering-devops/0x01-shell_permissions/ss"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/ss
-|4,39,1,0,1693614744,"/alx-system_engineering-devops/0x01-shell_permissions/ss"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/ss
-|4,39,1,0,1693614744,"/alx-system_engineering-devops/0x01-shell_permissions/ss"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/ss
-|4,39,1,0,1693614744,"/alx-system_engineering-devops/0x01-shell_permissions/ss"
+|4,39,1,0,1693615523,"bash/alx"
 
 # History of marks within files (newest to oldest):
+
+> /alx-zero_day/0x03-git/bash/alx
+	*	1693618727	0
+	"	2	9
+	^	2	10
+	.	2	9
+	+	2	9
 
 > /alx-zero_day/0x03-git/bash/school
 	*	1693618030	0
@@ -271,13 +278,6 @@
 	^	2	13
 	.	2	12
 	+	2	12
-
-> /alx-zero_day/0x03-git/bash/alx
-	*	1693618013	0
-	"	2	9
-	^	2	10
-	.	2	9
-	+	2	9
 
 > /alx-system_engineering-devops/0x01-shell_permissions/ss
 	*	1693614741	0
